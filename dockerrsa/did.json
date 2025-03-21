@@ -6,7 +6,7 @@
   "id": "did:web:maheswaras.github.io:vc:dockerrsa",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkrk7fSKeL1UL2cvrD1UZu46ZCw1GBpnYqeMJUAcGPdqKr",
+      "publicKeyMultibase": "z6Mkno9mwKrchkXkE2u9HC5p3U5q2zffNdZ7Sv8MePCjWfkU",
       "controller": "did:web:maheswaras.github.io:vc:dockerrsa",
       "id": "did:web:maheswaras.github.io:vc:dockerrsa#key-0",
       "type": "Ed25519VerificationKey2020",
